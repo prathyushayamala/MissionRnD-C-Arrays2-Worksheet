@@ -11,6 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="countGreaterNumbers.cpp" />
     <ClCompile Include="findSingleOccurenceNumber.cpp" />
     <ClCompile Include="MainArrays2.cpp" />
     <ClCompile Include="mergeSortedArrays.cpp" />

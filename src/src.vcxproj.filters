@@ -27,6 +27,9 @@
     <ClCompile Include="MainArrays2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="countGreaterNumbers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FunctionHeadersArrays2.h">
