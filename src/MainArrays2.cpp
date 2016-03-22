@@ -15,9 +15,13 @@ Objectives of C-Arrays-2 Lesson:
 */
 #include <stdio.h>
 #include "FunctionHeadersArrays2.h"
-
+struct transaction {
+	int amount;
+	char date[11];
+	char description[20];
+};
 int main(){
-
+	
 	//Test countGreaterNumbers
 
 	//Test findSingleOccurenceNumber
